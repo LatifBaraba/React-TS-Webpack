@@ -1,4 +1,7 @@
 # React-TS-Webpack Starter
-```
-waw
-```
+
+This is React + Typescript + Webpack Start Application
+
+## Include
+Webpack Development + Production Build
+Sass / Scss Bundler
