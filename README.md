@@ -3,5 +3,6 @@
 This is React + Typescript + Webpack Start Application
 
 ## Include
-Webpack Development + Production Build
-Sass / Scss Bundler
+
+- Webpack Development Server + Production Build
+- Sass / Scss Bundler
