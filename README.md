@@ -1,6 +1,6 @@
 # React-TS-Webpack Starter
 
-This is React + Typescript + Webpack Start Application
+This is React + Typescript + Webpack Starter Application
 
 ## Include
 
